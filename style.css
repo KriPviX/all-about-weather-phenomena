@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(9, 3, 93);
+    color: aqua;
+}
+ul {
+    color: rgb(15, 189, 143);
+}
+.one {color: rgb(240, 141, 13);}
+.img1 {
+    width: 400px;
+}
+.div1 {
+    border: 1px solid red;
+}
+.header {
+text-align: center;
+}
+.aside{
+ border: 1px solid rgb(8, 8, 240);   
+}
+.content {
+    border: 1px solid rgb(101, 101, 212);
+}
+.divr-aside {
+    border: 1px solid red;
+}
+footer {
+    border: 1px solid red;
+}
+
